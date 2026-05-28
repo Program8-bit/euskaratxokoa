@@ -1,0 +1,17 @@
+{
+  "titulo": "Euskara Txokoa",
+  "subtitulo": "Sailkapena",
+  "temporada": "2026 - 2027",
+  "participantes": [
+    { "id": 1, "izena": "Iker Redondo", "puntuak": 0},
+    { "id": 2, "izena": "Nerea Gracia", "puntuak": 0},
+    { "id": 3, "izena": "Aritz Garcia", "puntuak": 0},
+    { "id": 4, "izena": "Jon Polo", "puntuak": 0},
+    { "id": 5, "izena": "Mikel Martinez", "puntuak": 0},
+    { "id": 6, "izena": "Ana Martin", "puntuak": 0},
+    { "id": 7, "izena": "Iker Cuñado", "puntuak": 0},
+    { "id": 8, "izena": "Naroa Antrurjo", "puntuak": 0},
+    { "id": 9, "izena": "Lander Petite", "puntuak": 0},
+    { "id": 10, "izena": "Jose Barroso", "puntuak": 0}
+  ]
+}
